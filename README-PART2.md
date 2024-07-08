@@ -1,5 +1,7 @@
 # How to create a file using the Terminal
 
+![Terminal](https://media.istockphoto.com/id/1473387015/vector/futuristic-pc-80s-90s-with-opened-terminal-console.jpg?s=2048x2048&w=is&k=20&c=iXg_hGnmqFnTjnKyYR6vSYGQ0bU2MlRL8XHzAMva0vQ=)
+
 ######  Files are created, edited, deleted, and used by many of the background OS processes. Files are also used by regular users to accomplish daily tasks such as taking notes, writing code, or simply duplicating content.
 
 
@@ -35,3 +37,8 @@
 ### Conclusion
 
 In this article, we discussed three different methods to create files in the Linux command line. I hope you found this tutorial helpful.
+
+### Reference:
+
+- [Picture Terminal](https://www.istockphoto.com/vector/futuristic-pc-80s-90s-with-opened-terminal-console-gm1473387015-503537438)
+- [Tutorial Command Line](https://www.freecodecamp.org/news/how-to-make-a-file-in-linux-from-the-command-line-create-a-file-in-terminal/)
